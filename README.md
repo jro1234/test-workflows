@@ -9,7 +9,7 @@ these workflow templates with
 ```
 
 First, make sure your bashrc has all the necessary
-AdaptiveMD environment variables. [See the installer repo][https://github.com/jrossyra/admdinstaller]
+AdaptiveMD environment variables. [See the installer repo](https://github.com/jrossyra/admdinstaller "admdinstaller")
 for more guidance on this.
 
 Start by moving to either chignolin or dialanine (not currently
@@ -28,4 +28,4 @@ or confirm successful installation.
 NOTE!!!
 Different OpenMM versions will complain about our MD setup files,
 so if the simulation system files can't be read, then you have to
-make new ones with the correct OpenMM version. [See this repo][https://github.com/jrossyra/mk-openmm-system]
+make new ones with the correct OpenMM version. [See this repo](https://github.com/jrossyra/mk-openmm-system "Make OpenMM System Files")
