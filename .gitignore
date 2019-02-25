@@ -1,0 +1,3 @@
+# Log files during workflow all start with "ad"
+# and no other files in this dir do
+ad*
